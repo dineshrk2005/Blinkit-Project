@@ -82,4 +82,4 @@ Users can interact with the dashboard using the following filters:
 ## 📧 Contact
 For questions or collaboration:
 - **Name**: Dinesh R
-- **Email**: [your email here]
+- **Email**: dineshrk1032005@gmail.com
