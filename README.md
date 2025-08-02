@@ -67,7 +67,7 @@ Users can interact with the dashboard using the following filters:
 
 ## 🗂 File Details
 - **Dashboard Tool**: Power BI
-- **File**: `Screenshot 2025-08-02 144818.png`
+- **File**: ![iamge alt](https://github.com/dineshrk2005/Blinkit-Project/blob/main/Blinkit%20PowerBI%20DashBoard/final%20Dashboard/Screenshot%202025-08-02%20144818.png?raw=true)
 - **Created**: August 2025
 
 ---
